@@ -3323,6 +3323,11 @@
   resolved "https://registry.yarnpkg.com/@nomicfoundation/solidity-analyzer-darwin-x64/-/solidity-analyzer-darwin-x64-0.0.3.tgz#c0fccecc5506ff5466225e41e65691abafef3dbe"
   integrity sha512-HuJd1K+2MgmFIYEpx46uzwEFjvzKAI765mmoMxy4K+Aqq1p+q7hHRlsFU2kx3NB8InwotkkIq3A5FLU1sI1WDw==
 
+"@nomicfoundation/solidity-analyzer-darwin-x64@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@nomicfoundation/solidity-analyzer-darwin-x64/-/solidity-analyzer-darwin-x64-0.1.0.tgz#1225f7da647ae1ad25a87125664704ecc0af6ccc"
+  integrity sha512-dlHeIg0pTL4dB1l9JDwbi/JG6dHQaU1xpDK+ugYO8eJ1kxx9Dh2isEUtA4d02cQAl22cjOHTvifAk96A+ItEHA==
+
 "@nomicfoundation/solidity-analyzer-freebsd-x64@0.0.3":
   version "0.0.3"
   resolved "https://registry.yarnpkg.com/@nomicfoundation/solidity-analyzer-freebsd-x64/-/solidity-analyzer-freebsd-x64-0.0.3.tgz#8261d033f7172b347490cd005931ef8168ab4d73"
